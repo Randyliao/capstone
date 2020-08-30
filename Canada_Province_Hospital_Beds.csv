@@ -1,0 +1,629 @@
+Province,Hospital name,Total
+AB,Alberta Children’s Hospital,127
+AB,Alberta Hospital Edmonton,295
+AB,Athabasca Healthcare Centre,50
+AB,Barrhead Healthcare Centre,34
+AB,Bassano Health Centre,12
+AB,Beaverlodge Municipal Hospital,18
+AB,Bentley Care Centre,16
+AB,Bethany Meadows,65
+AB,Big Country Hospital,40
+AB,Bow Island Health Centre,30
+AB,Boyle Healthcare Centre,20
+AB,Breton Health Centre,23
+AB,Brooks Health Centre,37
+AB,Canmore General Hospital,44
+AB,Cardston Health Centre,31
+AB,Central Peace Health Complex,28
+AB,Chinook Regional Hospital,272
+AB,Claresholm General Hospital,16
+AB,Cold Lake Healthcare Centre,55
+AB,Consort Hospital and Care Centre,20
+AB,Coronation Hospital and Care Centre,33
+AB,Covenant Health Bonnyville Healthcare Centre,63
+AB,Covenant Health Grey Nuns Community Hospital,326
+AB,Covenant Health Killam Health Care Centre,50
+AB,Covenant Health Mary Immaculate Care Centre,30
+AB,Covenant Health Mineral Springs Hospital,47
+AB,Covenant Health Misericordia Community Hospital,294
+AB,Covenant Health Our Lady of the Rosary Hospital,27
+AB,Covenant Health St. Joseph’s General Hospital,23
+AB,Covenant Health St. Mary’s Hospital [Camrose],76
+AB,Covenant Health St. Michael’s Health Centre,106
+AB,Cross Cancer Institute,55
+AB,Crowsnest Pass Health Centre,74
+AB,Daysland Health Centre,26
+AB,Devon General Hospital,24
+AB,Didsbury District Health Services,37
+AB,Drayton Valley Hospital and Care Centre,82
+AB,Drumheller Health Centre,133
+AB,Edson Healthcare Centre,24
+AB,Elk Point Healthcare Centre,42
+AB,Fairview Health Complex,92
+AB,Foothills Medical Centre,1042
+AB,Fort Macleod Health Centre,4
+AB,Fort Saskatchewan Community Hospital,36
+AB,Fox Creek Healthcare Centre,4
+AB,George McDougall Smoky Lake Healthcare Centre,35
+AB,Glenrose Rehabilitation Hospital,244
+AB,Grande Cache Community Health Complex,12
+AB,Hanna Health Centre,17
+AB,Hardisty Health Centre,20
+AB,High Prairie Health Complex,30
+AB,High River General Hospital,77
+AB,Hinton Healthcare Centre,23
+AB,Innisfail Health Centre,106
+AB,Lacombe Hospital and Care Centre,110
+AB,Lamont Health Care Centre,15
+AB,Leduc Community Hospital,74
+AB,Manning Community Health Centre,27
+AB,Mannville Care Centre,23
+AB,Mayerthorpe Healthcare Centre,54
+AB,Medicine Hat Regional Hospital,203
+AB,Milk River Health Centre,24
+AB,Northern Lights Regional Health Centre,136
+AB,Northwest Health Centre,32
+AB,Oilfields General Hospital,45
+AB,Olds Hospital and Care Centre,83
+AB,Peace River Community Health Centre,71
+AB,Peter Lougheed Centre,495
+AB,Pincher Creek Health Centre,19
+AB,Ponoka Hospital and Care Centre,57
+AB,Provost Health Centre,62
+AB,Queen Elizabeth II Hospital,151
+AB,Raymond Health Centre,17
+AB,Red Deer Regional Hospital Centre,353
+AB,Redwater Health Centre,21
+AB,Rimbey Hospital and Care Centre,107
+AB,Rocky Mountain House Health Centre,31
+AB,Rockyview General Hospital,585
+AB,Royal Alexandra Hospital,813
+AB,Sacred Heart Community Health Centre,20
+AB,Seton (Jasper) Healthcare Centre,11
+AB,Slave Lake Healthcare Centre,44
+AB,South Health Campus,256
+AB,St. Theresa General Hospital,34
+AB,St. Therese-St. Paul Healthcare Centre,70
+AB,Stettler Hospital and Care Centre,76
+AB,Strathcona Community Hospital (data not available),0
+AB,Strathmore District Health Services,23
+AB,Sturgeon Community Hospital,166
+AB,Sundre Hospital and Care Centre,23
+AB,Swan Hills Healthcare Centre,4
+AB,Taber Health Centre,29
+AB,The Centennial Centre for Mental Health and Brain Injury,330
+AB,Three Hills Health Centre,45
+AB,Tofield Health Centre,66
+AB,Two Hills Health Centre,83
+AB,University of Alberta Hospital,832
+AB,Valleyview Health Centre,45
+AB,Vermilion Health Centre,25
+AB,Viking Health Centre,16
+AB,Vulcan Community Health Centre,23
+AB,Wabasca/Desmarais Healthcare Centre,10
+AB,Wainwright Health Centre,94
+AB,Westlock Healthcare Centre,166
+AB,WestView Health Centre,69
+AB,Wetaskiwin Hospital and Care Centre,97
+AB,Whitecourt Healthcare Centre,22
+AB,William J. Cadzow — Lac La Biche Healthcare Centre,64
+BC,100 Mile District General Hospital,21
+BC,Abbotsford Regional Hospital and Cancer Centre,281
+BC,Arrow Lakes Hospital,6
+BC,Ashcroft Hospital and Community Health Centre,25
+BC,BC Cancer Agency,25
+BC,Bella Coola General Hospital,14
+BC,Boundary Hospital,14
+BC,Bulkley Valley District Hospital,21
+BC,Burnaby Hospital,277
+BC,Cariboo Memorial Hospital,37
+BC,Chemainus Health Care Centre,75
+BC,Chetwynd Hospital and Health Centre,4
+BC,Children’s and Women’s Health Centre of British Columbia,248
+BC,Chilliwack General Hospital,231
+BC,Cormorant Island Community Health Centre,14
+BC,Cottage-Worthington Pavilion,144
+BC,Cowichan District Hospital,140
+BC,Creston Valley Hospital,18
+BC,Dawson Creek and District Hospital,47
+BC,Delta Hospital,150
+BC,Dr. Helmcken Memorial Hospital,8
+BC,Eagle Ridge Hospital,243
+BC,East Kootenay Regional Hospital,81
+BC,Elk Valley Hospital,21
+BC,Forensic Psychiatric Hospital,181
+BC,Fort Nelson General Hospital,9
+BC,Fort St. John Hospital and Health Centre,48
+BC,Fraser Canyon Hospital,60
+BC,G. F. Strong Rehabilitation Centre,62
+BC,G. R. Baker Memorial Hospital,41
+BC,George Pearson Centre,114
+BC,Golden and District General Hospital,9
+BC,Haida Gwaii Hospital and Health Centre,5
+BC,Hillside Centre,47
+BC,Holy Family Hospital,207
+BC,Invermere and District Hospital,9
+BC,Juan de Fuca Hospitals,487
+BC,Kelowna General Hospital,459
+BC,Kitimat Hospital and Health Centre,17
+BC,Kootenay Boundary Regional Hospital,78
+BC,Kootenay Lake Hospital,33
+BC,Lady Minto Gulf Islands Hospital,51
+BC,Lakes District Hospital and Health Centre,10
+BC,Langley Memorial Hospital,422
+BC,Lillooet Hospital and Health Centre,8
+BC,Lions Gate Hospital,536
+BC,Louis Brier Home and Hospital,218
+BC,Mackenzie and District Hospital and Health Centre,4
+BC,McBride and District Hospital,3
+BC,Menno Hospital,150
+BC,Mills Memorial Hospital,45
+BC,Mission Memorial Hospital,245
+BC,Mount Saint Joseph Hospital,195
+BC,Mount St. Mary Hospital,200
+BC,Nanaimo Regional General Hospital,355
+BC,Nicola Valley Health Centre,8
+BC,Northern Haida Gwaii Hospital and Health Centre,4
+BC,Overlander Extended Care Hospital,189
+BC,Peace Arch Hospital,412
+BC,Penticton Regional Hospital,152
+BC,Pleasant Valley Health Centre,40
+BC,Port Hardy Hospital,34
+BC,Port McNeill and District Hospital,10
+BC,Powell River General Hospital,108
+BC,Prince Rupert Regional Hospital,27
+BC,Princeton General Hospital,6
+BC,Queen Alexandra Centre for Children’s Health,14
+BC,Queen Victoria Hospital,16
+BC,Queen’s Park & Fellburn Care Centres,229
+BC,R. W. Large Memorial Hospital,15
+BC,Ridge Meadows Hospital and Health Care Centre,319
+BC,Royal Columbian Hospital,430
+BC,Royal Inland Hospital,266
+BC,Royal Jubilee Hospital,497
+BC,Saanich Peninsula Hospital,208
+BC,Shuswap Lake General Hospital,48
+BC,South Hills Tertiary Psychiatric Rehabilitation Centre,40
+BC,South Okanagan General Hospital,18
+BC,Squamish General Hospital,21
+BC,St. John Hospital,19
+BC,St. Mary’s Hospital [Sechelt],95
+BC,St. Michael’s Centre,144
+BC,St. Paul’s Hospital,446
+BC,Stuart Lake Hospital,4
+BC,Summerland Health Centre,50
+BC,Surrey Memorial Hospital,658
+BC,The North Island Hospital Campbell River and District Campus,99
+BC,The North Island Hospital Comox Valley Campus,155
+BC,The Richmond Hospital,222
+BC,The Views at St. Joseph’s,145
+BC,Tofino General Hospital,12
+BC,UBC Hospital,321
+BC,University Hospital of Northern British Columbia,219
+BC,Vancouver General Hospital,1029
+BC,Vernon Jubilee Hospital,196
+BC,Victoria General Hospital,357
+BC,Victorian Community Health Centre of Kaslo,20
+BC,West Coast General Hospital,56
+BC,Wrinch Memorial Hospital,10
+MB,Altona Community Memorial,22
+MB,Arborg and Districts Health Centre,14
+MB,Baldur Health Centre,14
+MB,Beausejour District Hospital,30
+MB,Bethesda Hospital,73
+MB,Birtle Health Centre,14
+MB,Boissevain Health Centre District,11
+MB,Boundary Trails Health Centre,90
+MB,Brandon General Hospital,284
+MB,Carberry Health Center,10
+MB,Carman Memorial Hospital,25
+MB,Churchill Health Centre,27
+MB,Concordia Hospital,197
+MB,Dauphin Regional Health Centre,82
+MB,Deer Lodge Centre,210
+MB,Deloraine Health Centre,14
+MB,DeSalaberry District Health Centre,14
+MB,E. M. Crowe Memorial Hospital,13
+MB,Emerson Hospital,4
+MB,Erickson District Health Centre,9
+MB,Flin Flon General Hospital,42
+MB,Gillam Hospital Inc.,10
+MB,Gimli Community Health Centre,26
+MB,Glenboro Health Centre,11
+MB,Grace Hospital,257
+MB,Grandview District Hospital,18
+MB,Hamiota District Health Centre,20
+MB,Health Sciences Centre Winnipeg,717
+MB,Lakeshore Health Centre,14
+MB,Lorne Memorial Hospital,18
+MB,Lynn Lake Hospital,19
+MB,MacGregor Health Centre,6
+MB,Manitoba Adolescent Treatment Centre,14
+MB,McCreary/Alonsa Health Centre,13
+MB,Melita Health Centre,11
+MB,Minnedosa District Hospital,27
+MB,Misericordia Health Centre,39
+MB,Morris General Hospital,23
+MB,Neepawa Health Centre,35
+MB,Notre Dame Hospital,10
+MB,Pembina Manitou Health Centre,8
+MB,Pinawa Hospital,17
+MB,Pine Falls Health Complex,23
+MB,Portage District General Hospital,84
+MB,Rivers Health Centre,14
+MB,Riverview Health Centre,130
+MB,Roblin District Health Centre,25
+MB,Rock Lake Health District Hospital,16
+MB,Rossburn District Health Centre,9
+MB,Russell Health Centre,30
+MB,Selkirk Regional Health Centre,61
+MB,Seven Oaks General Hospital,308
+MB,Seven Regions Health Centre,14
+MB,Shoal Lake-Strathclair Health Centre,12
+MB,Snow Lake Health Centre,4
+MB,Souris Health Centre,25
+MB,St. Boniface General Hospital,433
+MB,St. Claude Health Centre,10
+MB,Ste. Anne Hospital,21
+MB,Ste. Rose General Hospital,25
+MB,Stonewall and District Health Centre,15
+MB,Swan River Valley Hospital,52
+MB,Teulon/Hunter Memorial Hospital,20
+MB,The Pas Health Complex,37
+MB,Thompson General Hospital,71
+MB,Tiger Hills Health District,13
+MB,Tri-Lake Health District,22
+MB,Victoria General Hospital,167
+MB,Virden District Hospital,25
+MB,Vita and District Health Centre,10
+MB,Wawanesa and District Memorial Health Centre,6
+MB,Winnipegosis General Hospital,15
+NB,Campbellton Regional Hospital,145
+NB,Centracare,50
+NB,Chaleur Regional Hospital,215
+NB,Charlotte County Hospital,44
+NB,Dr. Everett Chalmers Regional Hospital,314
+NB,Dr. Georges-L.-Dumont University Hospital Centre,302
+NB,Edmundston Regional Hospital,169
+NB,Enfant-Jésus RHSJ Hospital,12
+NB,Grand Falls General Hospital,20
+NB,Grand Manan Hospital,8
+NB,Hotel-Dieu of St. Joseph,20
+NB,Hôtel-Dieu Saint-Joseph de Saint-Quentin,6
+NB,Lamèque Hospital and Community Health Centre,12
+NB,Miramichi Regional Hospital,147
+NB,Oromocto Public Hospital,45
+NB,Restigouche Hospital Centre,140
+NB,Sackville Memorial Hospital,21
+NB,Saint John Regional Hospital,486
+NB,St. Joseph’s Hospital,104
+NB,Stan Cassidy Centre for Rehabilitation,20
+NB,Stella-Maris-de-Kent Hospital,20
+NB,Sussex Health Centre,25
+NB,The Moncton Hospital,382
+NB,Tracadie-Sheila Hospital,59
+NB,Upper River Valley Hospital,52
+NL,A. M. Guy Memorial Health Centre,22
+NL,Baie Verte Peninsula Health Centre,26
+NL,Bonavista Peninsula Health Centre,80
+NL,Bonne Bay Health Centre,22
+NL,Burin Peninsula Health Care Centre,35
+NL,Calder Health Centre,21
+NL,Carbonear General Hospital,72
+NL,Central Newfoundland Regional Health Centre,115
+NL,Charles S. Curtis Memorial Hospital,42
+NL,Connaigre Peninsula Health Centre,24
+NL,Dr. A. A. Wilkinson Memorial Health Centre,4
+NL,Dr. Charles L. LeGrow Health Centre,44
+NL,Dr. G. B. Cross Memorial Hospital,85
+NL,Dr. Hugh Twomey Health Centre,80
+NL,Dr. Leonard A. Miller Centre,128
+NL,Dr. S. Beckley Health Centre,61
+NL,Dr. Walter Templeman Health Centre,20
+NL,Dr. Y.K. Jeon Kittiwake Health Centre,57
+NL,Fogo Island Health Centre,14
+NL,Green Bay Health Centre,89
+NL,Health Sciences Centre-St. John’s,348
+NL,James Paton Memorial Regional Health Centre,85
+NL,Janeway Children’s Health and Rehabilitation Centre,54
+NL,Labrador Health Centre,25
+NL,Labrador South Health Centre,15
+NL,Labrador West Health Centre,28
+NL,Notre Dame Bay Memorial Health Centre,49
+NL,Placentia Health Centre,85
+NL,Rufus Guinchard Health Care Centre,29
+NL,Sir Thomas Roddick Hospital,44
+NL,St. Clare’s Mercy Hospital,192
+NL,U.S. Memorial Health Centre,40
+NL,Waterford Hospital,121
+NL,Western Memorial Regional Hospital,217
+NS,Aberdeen Hospital,114
+NS,All Saints Springhill Hospital,30
+NS,Annapolis Community Health Centre,6
+NS,Bayview Memorial Health Centre,10
+NS,Buchanan Memorial Community Health Centre,10
+NS,Cape Breton Healthcare Complex,453
+NS,Colchester East Hants Health Centre,106
+NS,Cumberland Regional Health Care Centre,72
+NS,Dartmouth General Hospital,132
+NS,Digby General Hospital,33
+NS,East Coast Forensic Psychiatric Hospital,91
+NS,Eastern Memorial Hospital,6
+NS,Eastern Shore Memorial Hospital,5
+NS,Fishermen’s Memorial Hospital,53
+NS,Guysborough Memorial Hospital,10
+NS,Hants Community Hospital,70
+NS,Inverness Consolidated Memorial Hospital,21
+NS,IWK Health Centre,135
+NS,Lillian Fraser Memorial Hospital,10
+NS,Musquodoboit Valley Memorial Hospital,6
+NS,North Cumberland Memorial Hospital,4
+NS,Nova Scotia Hospital,99
+NS,Queen Elizabeth II Health Sciences Centre,970
+NS,Queens General Hospital,22
+NS,Roseway Hospital,19
+NS,Sacred Heart Hospital,10
+NS,Soldiers Memorial Hospital,82
+NS,South Cumberland Community Care Centre,16
+NS,South Shore Regional Hospital,80
+NS,St. Martha’s Regional Hospital,89
+NS,St. Mary’s Memorial Hospital,6
+NS,Strait Richmond Hospital,31
+NS,Sutherland Harris Memorial Hospital,38
+NS,Twin Oaks Memorial Hospital,15
+NS,Valley Regional Hospital,137
+NS,Victoria County Memorial Hospital,12
+NS,Yarmouth Regional Hospital,122
+NW,Fort Smith Health Centre,6
+NW,Hay River Regional Health Centre,19
+NW,Inuvik Regional Hospital,51
+NW,Stanton Territorial Hospital,54
+ON,Alexandra Hospital,26
+ON,Alexandra Marine and General Hospital,42
+ON,Almonte General Hospital,52
+ON,Anson General Hospital,34
+ON,Arnprior & District Memorial Hospital,38
+ON,Atikokan General Hospital,41
+ON,Baycrest,262
+ON,Bingham Memorial Hospital,37
+ON,Blind River District Health Centre,40
+ON,Bluewater Health,305
+ON,Brant Community Healthcare System,295
+ON,Brockville General Hospital,148
+ON,Bruyère Continuing Care,450
+ON,Cambridge Memorial Hospital,138
+ON,Campbellford Memorial Hospital,34
+ON,Carleton Place and District Memorial Hospital,20
+ON,Casey House,13
+ON,Centre for Addiction and Mental Health,495
+ON,Chatham-Kent Health Alliance,201
+ON,Children’s Hospital of Eastern Ontario,133
+ON,Clinton Public Hospital,20
+ON,Collingwood General and Marine Hospital,74
+ON,Cornwall Community Hospital,156
+ON,Deep River and District Hospital,11
+ON,Dryden Regional Health Centre,41
+ON,Englehart and District Hospital,8
+ON,Erie Shores HealthCare,58
+ON,Espanola General Hospital,47
+ON,Four Counties Health Services,12
+ON,Georgian Bay General Hospital,112
+ON,Geraldton District Hospital,49
+ON,Grand River Hospital,511
+ON,Grey Bruce Health Services,224
+ON,Groves Memorial Community Hospital,39
+ON,Guelph General Hospital,200
+ON,Haldimand War Memorial Hospital,40
+ON,Haliburton Highlands Health Services,15
+ON,Halton Healthcare Services,650
+ON,Hamilton Health Sciences,1251
+ON,Hanover and District Hospital,28
+ON,Headwaters Health Care Centre,76
+ON,Health Sciences North / Horizon Santé-Nord,454
+ON,Holland Bloorview Kids Rehabilitation Hospital,63
+ON,Homewood Health Centre Inc.,301
+ON,Hôpital de Mattawa Hospital,19
+ON,Hôpital de Smooth Rock Falls Hospital,37
+ON,Hôpital général de Hawkesbury & District General Hospital,71
+ON,Hôpital Glengarry Memorial Hospital,37
+ON,Hôpital Montfort,282
+ON,Hôpital Notre-Dame Hospital,44
+ON,Hôpital privé Beechwood Private Hospital (data not available),0
+ON,Hornepayne Community Hospital,18
+ON,Hospital for Sick Children,263
+ON,Hotel Dieu Shaver Health and Rehabilitation Centre,135
+ON,Hôtel-Dieu Grace Healthcare,259
+ON,Humber River Hospital,628
+ON,Joseph Brant Hospital,255
+ON,Kemptville District Hospital,26
+ON,Kingston Health Sciences Centre,481
+ON,Kirkland and District Hospital,38
+ON,Lady Dunn Health Centre,28
+ON,Lady Minto Hospital,14
+ON,Lake of the Woods District Hospital,69
+ON,Lakeridge Health,850
+ON,Lennox and Addington County General Hospital,30
+ON,Listowel Memorial Hospital,39
+ON,London Health Sciences Centre,1058
+ON,Mackenzie Health,431
+ON,Manitoulin Health Centre,32
+ON,Markham Stouffville Hospital,306
+ON,Michael Garron Hospital,367
+ON,Muskoka Algonquin Healthcare,96
+ON,Niagara Health System,773
+ON,Nipigon District Memorial Hospital,15
+ON,Norfolk General Hospital,98
+ON,North Bay Regional Health Centre,388
+ON,North of Superior Healthcare Group,45
+ON,North Wellington Health Care Corporation,30
+ON,North York General Hospital,431
+ON,Northumberland Hills Hospital,92
+ON,Ontario Shores Centre for Mental Health Sciences,346
+ON,Orillia Soldiers’ Memorial Hospital,148
+ON,Pembroke Regional Hospital Inc.,119
+ON,Perth and Smiths Falls District Hospital,88
+ON,Peterborough Regional Health Centre,480
+ON,Queensway Carleton Hospital,295
+ON,Quinte Health Care,266
+ON,Red Lake Margaret Cochenour Memorial Hospital,18
+ON,Renfrew Victoria Hospital,55
+ON,Riverside Health Care Facilities Inc.,112
+ON,Ross Memorial Hospital,178
+ON,Royal Ottawa Health Care Group,260
+ON,Royal Victoria Regional Health Centre,363
+ON,Runnymede Healthcare Centre,206
+ON,Santé Manitouwadge Health,18
+ON,Sault Area Hospital,270
+ON,Scarborough Health Network,765
+ON,Seaforth Community Hospital,20
+ON,Sensenbrenner Hospital,53
+ON,Services de santé de Chapleau Health Services,37
+ON,Shouldice Hospital,83
+ON,Sinai Health System,732
+ON,Sioux Lookout Meno Ya Win Health Centre,79
+ON,South Bruce Grey Health Centre,77
+ON,South Huron Hospital,19
+ON,Southlake Regional Health Centre,449
+ON,St. Francis Memorial Hospital,20
+ON,St. Joseph’s Care Group,264
+ON,St. Joseph’s Continuing Care Centre McConnell Avenue Site,58
+ON,St. Joseph’s General Hospital [Elliot Lake],54
+ON,St. Joseph’s Health Care London,465
+ON,St. Joseph’s Health Centre Guelph,94
+ON,St. Joseph’s Healthcare Hamilton,796
+ON,St. Mary’s General Hospital,185
+ON,St. Mary’s of the Lake Hospital,270
+ON,St. Marys Memorial Hospital,20
+ON,St. Thomas Elgin General Hospital,155
+ON,Stevenson Memorial Hospital,38
+ON,Stratford General Hospital,115
+ON,Strathroy Middlesex General Hospital,54
+ON,Sunnybrook Health Sciences Centre,1098
+ON,Temiskaming Hospital,59
+ON,The Ottawa Hospital,1028
+ON,The Salvation Army Toronto Grace Health Centre,119
+ON,Thunder Bay Regional Health Sciences Centre,428
+ON,Tillsonburg District Memorial Hospital,48
+ON,Timmins and District Hospital,152
+ON,Trillium Health Partners,1252
+ON,Unity Health Toronto,1081
+ON,University Health Network,1253
+ON,University of Ottawa Heart Institute,143
+ON,Waypoint Centre for Mental Health Care,301
+ON,Weeneebayko Area Health Authority,12
+ON,West Haldimand General Hospital,23
+ON,West Nipissing General Hospital,50
+ON,West Park Healthcare Centre,265
+ON,West Parry Sound Health Centre,90
+ON,William Osler Health System,908
+ON,Winchester District Memorial Hospital,55
+ON,Windsor Regional Hospital,570
+ON,Wingham and District Hospital,32
+ON,Woodstock General Hospital,163
+PE,Hillsborough Hospital,69
+PE,Kings County Memorial Hospital,30
+PE,O’Leary Community Hospital,13
+PE,Prince County Hospital,100
+PE,Queen Elizabeth Hospital,233
+PE,Souris Hospital,17
+PE,Western Hospital,27
+QC,CH Kateri Memorial - Tehsakotitsén:tha,10
+QC,CHU de Québec,1207
+QC,CHU Sainte-Justine,286
+QC,CHUM,693
+QC,CISSS de Chaudière-Appalaches,604
+QC,CISSS de l’Abitibi-Témiscamingue,357
+QC,CISSS de l’Outaouais,771
+QC,CISSS de la Côte-Nord,238
+QC,CISSS de la Gaspésie,205
+QC,CISSS de la Montérégie-Centre,851
+QC,CISSS de la Montérégie-Est,821
+QC,CISSS de la Montérégie-Ouest,546
+QC,CISSS de Lanaudière,818
+QC,CISSS de Laval,695
+QC,CISSS des Îles,30
+QC,CISSS des Laurentides,1000
+QC,CISSS du Bas-Saint-Laurent,475
+QC,CIUSSS de l’Est-de-l’Île-de-Montréal,1126
+QC,CIUSSS de l’Estrie - CHUS,1077
+QC,CIUSSS de l’Ouest-de-l’Île-de-Montréal,903
+QC,CIUSSS de la Capitale-Nationale,697
+QC,CIUSSS de la Mauricie et du Centre-du-Québec,1179
+QC,CIUSSS du Centre-Ouest-de-l’Île-de-Montréal,731
+QC,CIUSSS du Centre-Sud-de-l’Île-de-Montréal,679
+QC,CIUSSS du Nord-de-l’Île-de-Montréal,862
+QC,CIUSSS du Saguenay–Lac-Saint-Jean,816
+QC,CRSSS de la Baie-James,38
+QC,CS Inuulitsivik,19
+QC,CUSM,804
+QC,Hôpital Marie-Clarac,228
+QC,Hôpital Shriners pour enfants Inc.,22
+QC,INPL Philippe-Pinel,267
+QC,Inst. univ. cardio. et pneumo. de Québec – UL,327
+QC,Institut de cardiologie de Montréal,153
+QC,Villa Médica Inc.,142
+SK,Arcola Health Centre,12
+SK,Assiniboia Union Hospital,17
+SK,Balcarres Integrated Care Centre,9
+SK,Battlefords Union Hospital,66
+SK,Biggar Hospital,15
+SK,Broadview Union Hospital,16
+SK,Canora Hospital,16
+SK,Central Butte Regency Hospital,5
+SK,Cypress Regional Hospital,77
+SK,Davidson Health Centre,5
+SK,Dr. F.H. Wigmore Regional Hospital,73
+SK,Emmanuel Health — St. Anthony’s Hospital,22
+SK,Emmanuel Health — St. Joseph’s Hospital [Estevan],53
+SK,Emmanuel Health — St. Joseph’s Hospital/Foyer d’Youville,9
+SK,Emmanuel Health — St. Paul’s Hospital,244
+SK,Emmanuel Health — St. Peter’s Hospital [Melville],30
+SK,Herbert and District Integrated Health Facility,6
+SK,Hudson Bay Health Care Facility,5
+SK,Humboldt District Hospital,38
+SK,Indian Head Hospital,15
+SK,Kamsack Hospital and Nursing Home,20
+SK,Kelvington Hospital,7
+SK,Kerrobert Integrated Health Centre,8
+SK,Kindersley and District Health Centre,26
+SK,Kipling Integrated Health Centre,12
+SK,La Loche Health Centre,19
+SK,La Ronge Health Centre,24
+SK,Lanigan Hospital,10
+SK,Leader and District Integrated Healthcare Facility,6
+SK,Lloydminster Hospital,66
+SK,Maidstone Health Complex,11
+SK,Melfort Hospital,24
+SK,Nipawin Hospital,24
+SK,Northwest Health Facility,32
+SK,Outlook and District Health Centre,13
+SK,Parkland Integrated Health Centre,20
+SK,Pasqua Hospital,273
+SK,Porcupine Carragana Hospital,7
+SK,Preeceville and District Health Centre,10
+SK,Redvers Health Centre,5
+SK,Regina General Hospital,468
+SK,Riverside Health Complex,9
+SK,Rosetown Health Centre,21
+SK,Rosthern Hospital,19
+SK,Royal University Hospital,431
+SK,Saskatchewan Hospital,280
+SK,Saskatoon City Hospital,168
+SK,Shaunavon Hospital and Care Centre,10
+SK,Southeast Integrated Care Centre — Moosomin,27
+SK,Southwest Integrated Healthcare Facility,10
+SK,St. Joseph’s Health Centre,13
+SK,St. Joseph’s Integrated Care Centre,5
+SK,Tisdale Hospital,15
+SK,Unity and District Health Centre,10
+SK,Victoria Hospital,144
+SK,Wadena Hospital,20
+SK,Wascana Rehabilitation Centre,45
+SK,Watrous Hospital,8
+SK,Weyburn General Hospital,40
+SK,Wolseley Memorial Integrated Care Centre,10
+SK,Wynyard Integrated Hospital,8
+SK,Yorkton Regional Health Centre,87
+YK,Dawson City Community Hospital,6
+YK,Watson Lake Community Hospital,6
+YK,Whitehorse General Hospital,55
